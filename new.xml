@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<first_name>Margarita</first_name>
+	<last_name>Morugina</last_name>
+	<age>37</age>
+	<count_pet>2</count_pet>
+	<first_salary>1000</first_salary>
+</person>
